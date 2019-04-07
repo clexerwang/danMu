@@ -22,5 +22,5 @@ Todo:
 
 
 ##### 效果预览：
-[![AhOscq.gif](https://s2.ax1x.com/2019/04/07/AhOscq.gif)](https://imgchr.com/i/AhOscq)
+![](./source/demo.gif)
 
